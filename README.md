@@ -8,3 +8,6 @@
   * banana
   * mango
   * cherry
+1. Places
+2.   1.Delhi
+3.   2.Mumbai
